@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS61023")(type "KiCad")(uri "${KIPRJMOD}/TPS61023DRLR/KiCADv6/2026-11-12_04-02-42.kicad_sym")(options "")(descr ""))
+  (lib (name "CIGT201610LH1R0MNE")(type "KiCad")(uri "${KIPRJMOD}/CIGT201610LH1R0MNE/KiCADv6/2026-11-12_04-21-14.kicad_sym")(options "")(descr ""))
+  (lib (name "ERA6AEB7323V")(type "KiCad")(uri "${KIPRJMOD}/ERA6AEB7323V/KiCADv6/2026-11-12_04-28-09.kicad_sym")(options "")(descr ""))
+  (lib (name "TAJA226K010RNJ")(type "KiCad")(uri "${KIPRJMOD}/TAJA226K010RNJ/KiCADv6/2026-11-12_04-35-47.kicad_sym")(options "")(descr ""))
+)
